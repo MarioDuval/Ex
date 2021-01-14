@@ -21,7 +21,7 @@ def main():
     word = 'N' +word[1:]
     print(word)
     '''
-    a = sin(45)
+    print("Hello World")
 
 if __name__ == '__main__':
     main()
